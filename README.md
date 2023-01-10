@@ -1,4 +1,13 @@
-### Hi there 👋
+- 👋 Hi, I’m Gordon Ho
+- 💻 I’m interested in PC Building, anime, and gaming
+- 🧵 I’m currently learning how to needlepoint 
+- 🏝  I'm originally from Oahu
+- 🏫 I'm a Sophomore in EE
+- ☀  I chose my major because I want to work in the renewable energy industry
+- ✨ A fun fact about me is:  I like 3D printing 
+- 👨‍💻 What do I want to learn from EE 205? How to code in C
+- 🏢 A book or movie I'd recommend is:  The Hating Game 
+
 
 <!--
 **gordonh25/gordonh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
